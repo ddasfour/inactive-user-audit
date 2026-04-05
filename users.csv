@@ -1,0 +1,8 @@
+﻿Username,FullName,Department,LastLogonDate,Enabled
+jsmith,Jane Smith,Finance,2025-11-01,TRUE
+mbrown,Mike Brown,IT,2026-03-28,TRUE
+ataylor,Alice Taylor,HR,2025-10-15,TRUE
+rbloggs,Rob Bloggs,Finance,2025-09-20,TRUE
+sconnor,Sarah Connor,IT,2026-03-30,TRUE
+gwilson,Gary Wilson,Legal,2024-08-05,TRUE
+pparker,Peter Parker,Marketing,2026-03-20,FALSE
