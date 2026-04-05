@@ -5,7 +5,7 @@ activity in 90+ days and exports a timestamped CSV report for security review.
 
 ## Purpose
 Stale accounts are a key security risk. This script automates the detection
-step of an IAM access review or leaver process — directly relevant to
+step of an IAM access review or leaver process directly relevant to
 joiner/mover/leaver workflows in regulated environments.
 
 ## How to run
