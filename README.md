@@ -18,5 +18,5 @@ A timestamped CSV saved to /reports/ listing all inactive enabled accounts.
 
 ## Note on Active Directory
 Built using mock CSV data so it runs without an AD server.
-In a real environment, replace the Import-Csv line with Get-ADUser —
+In a real environment, replace the Import-Csv line with Get-ADUser-
 all other logic remains identical.
